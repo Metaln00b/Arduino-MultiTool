@@ -8,8 +8,8 @@
 #define messPin 1            // Analog Messeingang
 #define encoderPin 2         // Induktiver Sensor-Pin
 #define pulsePerRound 1      // Pulse pro Umdrehung
-#define ladePin 4            // Kondensator-Lade-Pin über einen 10kOhm Widerstand
-#define entladePin 5         // Kondensator-Entlade-Pin über einen 220 Ohm Widerstand 
+#define ladePin 12           // Kondensator-Lade-Pin über einen 10kOhm Widerstand
+#define entladePin 13        // Kondensator-Entlade-Pin über einen 220 Ohm Widerstand 
 #define widerstand  9927.0F  // 10 kOhm > gemessen 9,927 kOhm
 
 /* Kondensator */
